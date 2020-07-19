@@ -5,3 +5,7 @@
 # Laravel.io Art
 
 Artwork & logo for the Laravel.io branding. Logo originally design by [Steve Schoger](https://twitter.com/steveschoger).
+
+## License
+
+All rights reserved.
